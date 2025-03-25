@@ -30,9 +30,9 @@
 ---
 
 ### 📫 Contattami
-📧 Email: **tuo@email.com**  
-💼 LinkedIn: [IlTuoLinkedIn](https://www.linkedin.com/in/iltuolinkedin)  
-🌐 Portfolio: [IlTuoPortfolio](https://iltuoportfolio.com)  
+📧 Email: ****  
+💼 LinkedIn: [IlTuoLinkedIn]()  
+🌐 Portfolio: [IlTuoPortfolio]()  
 
 ---
 
