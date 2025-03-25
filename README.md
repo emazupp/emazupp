@@ -4,7 +4,7 @@
 
 ---
 
-### 🔥 About Me
+<!-- ### 🔥 About Me
 - 🎯 **Attualmente**: Lavoro su progetti full stack con tecnologie moderne
 - 🌱 **Sto imparando**: TypeScript, Next.js, DevOps
 - 💡 **Mi piace lavorare con**: JavaScript, React, Node.js, Express, MongoDB
@@ -36,4 +36,4 @@
 
 ---
 
-### 🚀 "Code. Learn. Improve. Repeat."
+### 🚀 "Code. Learn. Improve. Repeat." -->
