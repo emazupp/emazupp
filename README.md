@@ -4,7 +4,7 @@
 
 ---
 
-![Work in Progress](https://via.placeholder.com/800x400?text=GitHub+Home+Page+Under+Construction)
+⚠️ **Work in Progress** 🚧
 
 ---
 <!-- ### 🔥 About Me
