@@ -1,9 +1,12 @@
-### 👋 Ciao, sono Emanuele!
+### 👋 Hi, I'm Emanuele!
 
-💻 **Junior Full Stack Web Developer** | 🚀 Appassionato di sviluppo web | 🎯 Sempre in cerca di nuove sfide
+💻 **Junior Full Stack Web Developer** | 🚀 Passionate about web development | 🎯 Always looking for new challenges
 
 ---
 
+![Work in Progress](https://via.placeholder.com/800x400?text=GitHub+Home+Page+Under+Construction)
+
+---
 <!-- ### 🔥 About Me
 - 🎯 **Attualmente**: Lavoro su progetti full stack con tecnologie moderne
 - 🌱 **Sto imparando**: TypeScript, Next.js, DevOps
